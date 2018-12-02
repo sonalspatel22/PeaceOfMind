@@ -1,0 +1,33 @@
+<resources>
+
+
+    <string name="app_name">PeaceOfMind</string>
+    <string name="start_timer_button_label">Start</string>
+    <string name="cancel_timer_button_label">Cancel</string>
+    <string name="timer_started">Sleep timer started</string>
+    <string name="timer_cancelled">Sleep timer cancelled</string>
+    <string name="hours_label">h</string>
+    <string name="minutes_label">m</string>
+    <string name="paused_music_notification_title">Sleep Timer - Music Paused</string>
+    <string name="paused_music_notification_text">Good night!</string>
+    <string name="countdown_notification_title">Sleep Timer - Countdown Active</string>
+    <string name="countdown_notification_text">Music will be paused at %s</string>
+
+
+    <string name="sleep_timer_title">Sleep timer</string>
+    <string-array name="sleep_timer">
+        <item>Off</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>30 minutes</item>
+        <item>40 minutes</item>
+        <item>50 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+    </string-array>
+
+
+    <string name="stream_notification_image_content_desc">Notification stream image</string>
+    <string name="notification_cancel_button_content_desc">Cancel notification button</string>
+</resources>
